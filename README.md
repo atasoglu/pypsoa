@@ -60,18 +60,10 @@ print(f"Best fitness: {best_fitness}")
 
 See [API Reference](API_REFERENCE.md) for more details.
 
-## License
-
-MIT License - see LICENSE file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Author
+## License
 
-Ahmet Atasoglu - ahmetatasoglu98@gmail.com
-
-## Repository
-
-https://github.com/atasoglu/pypsoa
+MIT License - see LICENSE file for details.
